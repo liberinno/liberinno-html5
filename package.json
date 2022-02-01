@@ -1,0 +1,22 @@
+{
+  "name": "liberinno-html5",
+  "version": "0.0.1",
+  "description": "HTML5 game frameworks using TypeScript and Entity Component System",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liberinno/liberinno-html5.git"
+  },
+  "author": "liberinno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liberinno/liberinno-html5/issues"
+  },
+  "homepage": "https://github.com/liberinno/liberinno-html5#readme",
+  "dependencies": {
+    "typescript": "^4.5.5"
+  }
+}
