@@ -1,3 +1,5 @@
+import Game from './src/game';
+
 document.body.onload = function () {
     const canvas = document.createElement('canvas');
     canvas.setAttribute('id', 'game_canvas');
