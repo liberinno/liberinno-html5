@@ -25,6 +25,6 @@ export default class Game {
     }
 
     update(delta, time) {
-        console.log('This is the update function');
+        console.log('This is the update function', delta, time);
     }
 }
